@@ -1,0 +1,5 @@
+# /bilet-satin-alma/database/.htaccess
+
+# Bu klasördeki tüm dosyalara doğrudan erişimi engelle
+Order allow,deny
+Deny from all
